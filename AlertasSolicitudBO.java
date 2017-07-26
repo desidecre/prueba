@@ -106,7 +106,7 @@ import wcorp.util.TablaValores;
  * <pre>
  * - {@link #validarAtribucionGarantias(long, String)}
  * </pre>
- * Se modifica el metodo para prueba:
+ * Se modifica el metodoooo:
  * <pre>
  * - {@link #validarDatosBasicosEmpresario(long, long, RespuestaInvocacionesSolicitudTO[])}
  * </pre>
